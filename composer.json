@@ -1,0 +1,12 @@
+{
+    "name": "jazuli/line-bot-php",
+    "description": "Simple line bot using php slim framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nur Muhammad Jazuli",
+            "email": "nummajaz@gmail.com"
+        }
+    ],
+    "require": {}
+}

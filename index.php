@@ -12,8 +12,8 @@ use \LINE\LINEBot\SignatureValidator as SignatureValidator;
 $pass_signature = true;
  
 // set LINE channel_access_token and channel_secret
-$channel_access_token = "";
-$channel_secret = "";
+$channel_access_token = "7uqri9V4FhyREttNwMG++RxxktYWW8dqloRnZz4B+BLBeyMOjTc2U0TTnSLychMSRDR0tXe1mZ5p4MuBcr/rwBr77Vbi/BHrj8V3U/wbeR9TcxHMkip+bDVVlBNyCi0a3SGWsWcz0DP1PrRMx/iBXAdB04t89/1O/w1cDnyilFU=";
+$channel_secret = "ce2f5e17ccb2407f3e101f5c0f6ac599";
  
 // inisiasi objek bot
 $httpClient = new CurlHTTPClient($channel_access_token);
